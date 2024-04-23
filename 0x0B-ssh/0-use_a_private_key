@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connects to my mykey server
+ssh -i ~/.ssh/mykey ubuntu@34.229.189.58
